@@ -1,2 +1,2 @@
-py TelegramBotAPI
+pyTelegramBotAPI
 yt-dlp
